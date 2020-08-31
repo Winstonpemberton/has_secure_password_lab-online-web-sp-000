@@ -1,3 +1,5 @@
 class WelcomeController < ApplicationController
-  <h1>Welcome <%=@user.name%></h1>
+  def 
+  end
+
 end
